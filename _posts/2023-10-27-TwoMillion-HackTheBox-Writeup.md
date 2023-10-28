@@ -1,8 +1,7 @@
 ---
 title: TwoMillion HackTheBox - Writeup
-date: 2023-10-27 16:37:22 +0800
 categories: [Hacking, HackTheBox]
-tags: [writeup, hackthebox]     # TAG names should always be lowercase
+tags: [hacking, htb, hackthebox, writeup]     # TAG names should always be lowercase
 ---
 
 
